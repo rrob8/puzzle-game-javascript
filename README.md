@@ -10,4 +10,4 @@
 
 - 👉 npm install
 
-- 👉 npm run or yarn run
+- 👉 npm run run

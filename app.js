@@ -252,7 +252,7 @@ const isGameOver = () => {
   }
   if (_.isEqual(whatIsGameStatus, __stateFlatten)) {
     setTimeout(() => {
-      let isPlayAgain = confirm("You Made it !! 😃 . want to play again?");
+      let isPlayAgain = confirm("Dracula, Moby Dick, find the horror novel for my next trick ");
       if (isPlayAgain) {
         __puzzle.innerHTML = "";
         randomPuzzle();
